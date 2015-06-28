@@ -20,27 +20,41 @@ I used a 7404 invertor to drive the opposite EN pin for each controller to save 
    D1
 
    D2 - rc1
+
    D3 - EN Track 0
 
-   D4 - rc2
- D5 - EN track 1
+   D4 - rc 2
+
+   D5 - EN track 1
+
    D6 - EN Arm 0
+
    D7 - rc 3
 
    D8 - RC Chan 4 left stick
+
    D9 - EN Arm 1
+
    D10 - EN arm 2
+
    D11 - EN arm 3
+
    D12 - Dir Track 0
+
    D13 - Dir Track 1
+
    A0 - D Arm 0
+
    A1 - D Arm 2
 
    A3 - D Arm 3
+
    A3 - D Arm 3
 
    A4 - Gyro
+
    A5 - Gyro
 
    A6 - Free (analog in only)
+
    A7 - Free       "
